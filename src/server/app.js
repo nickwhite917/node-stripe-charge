@@ -1,4 +1,4 @@
-// *** main dependencies *** //
+sudo: required// *** main dependencies *** //
 require('dotenv').load();
 
 var express = require('express');
